@@ -19,7 +19,7 @@ I’m passionate about learning new technologies, writing clean and efficient co
 
 ## 💻 Tech Stack
 
-- **Languages:** Java, Kotlin, SQL, XML  
+- **Languages:** Java, Kotlin, Python, SQL, XML, C#, HTML5, CSS, Boostrap  
 - **Development:** Android, Multiplatform Applications  
 - **Tools & Systems:** Git, GitHub, Linux, Networking Fundamentals  
 - **Concepts:** OOP, Clean Code, Agile Practices, Databases
