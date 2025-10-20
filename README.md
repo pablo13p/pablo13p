@@ -58,5 +58,7 @@ Outside of coding, I like exploring new technologies, reading about software arc
 - **Location:** Spain 🇪🇸 | Open to international opportunities 🌍
 
 ---
+
 > _“Keep learning, keep building, and stay curious.”_
+---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pablo13p&theme=highcontrast)](https://git.io/streak-stats)
