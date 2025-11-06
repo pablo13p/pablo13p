@@ -55,7 +55,7 @@ Outside of coding, I love exploring new tools, reading about software design, an
 
 - **LinkedIn:** [linkedin.com/in/pablo-rubio-prado-19aa972bb](https://www.linkedin.com/in/pablo-rubio-prado-19aa972bb)  
 - **Email:** _[pablorubioprado08@gmail.com]_  
-- **Location:** Spain 🇪🇸 | Open to international opportunities 🌍
+- **Location:** Spain 🇪🇸 | Ciudad Real
 
 ---
 
